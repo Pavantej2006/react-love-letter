@@ -1,0 +1,3 @@
+git clone"github.com/codenihar/react-love-letter"
+npm install 
+npm start
